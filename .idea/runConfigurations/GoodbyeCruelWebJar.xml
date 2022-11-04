@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="GoodbyeCruelWebJar" type="JarApplication">
+    <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/GoodbyeCruelWeb_jar/GoodbyeCruelWeb.jar" />
+    <option name="WORKING_DIRECTORY" value="C:\Users\andy.walker\Projects\GoodbyeCruelWeb" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2">
+      <option name="BuildArtifacts" enabled="true">
+        <artifact name="GoodbyeCruelWeb:jar" />
+      </option>
+    </method>
+  </configuration>
+</component>

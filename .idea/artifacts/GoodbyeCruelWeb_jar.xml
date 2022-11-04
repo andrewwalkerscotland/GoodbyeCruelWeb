@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GoodbyeCruelWeb:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GoodbyeCruelWeb_jar</output-path>
+    <root id="archive" name="GoodbyeCruelWeb.jar">
+      <element id="module-output" name="GoodbyeCruelWeb" />
+    </root>
+  </artifact>
+</component>
